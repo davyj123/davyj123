@@ -6,11 +6,11 @@
 <h3 font-size="20" align="center">A passionate Full Stack developer.</h3>
 
 
-- 🌱 I’m currently learning **To be Extroverted** <img align="right" style="width:16rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/geek.gif"/>
+- 🌱 Currently learning **TO build AR and VR Web Experiences**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available [@davyj123](github.com/davyj123)
+- Access all projects [@davyj123](https://github.com/davyj123)
 
 - ⚡ **Programing is all about the if and else conditions**
 
@@ -24,201 +24,54 @@
   <img style="width:26rem; height:auto" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif"/>
 </p>
 
-<p align="center">
-  <img style="width:26rem; height:auto" src="https://giphy.com/gifs/smu-ellipsis-smuellipsis-USV0ym3bVWQJJmNu3N"/>
-</p>
 
-<h3 align="center">Languages</h3>
-<p align="center">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"
-      alt="html5"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://img.shields.io/badge/css-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"
-      alt="css3"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/C%20programming-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white"
-      alt="c"/>
-  </a>
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white" 
-      alt="java"/> 
-  </a>
- 
-</p>
 
-<h3 align="center">Frontend</h3>
-<p align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://img.shields.io/badge/bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-      alt="bootstrap"/>
-  </a>
-  <a href="https://babeljs.io/" target="_blank">
-    <img src="https://img.shields.io/badge/babel-F9DC3E.svg?style=for-the-badge&logo=babel&logoColor=black" alt="babel"/> 
-  </a>
-  <a href="https://bulma.io/" target="_blank">
-    <img src="https://img.shields.io/badge/bulma-00D1B2.svg?style=for-the-badge&logo=bulma&logoColor=white"
-      alt="bulma"/>
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gatsbyjs-663399.svg?style=for-the-badge&logo=gatsby&logoColor=white" alt="gatsby" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
-      alt="react"/> 
-  </a>
-  <a href="https://redux.js.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
-  </a> 
-  <a href="https://jquery.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jquery-0769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" alt="jquery"/> 
-  </a>
-  <a href="https://webpack.js.org" target="_blank">
-    <img src="https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black"
-      alt="webpack"/>
-  </a>
-</p>
+<!-- LANGUAGES AND TOOLS -->
 
-<h3 align="center">Backend</h3>
-<p align="center">
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs"/> 
-  </a>
-  <a href="https://expressjs.com" target="_blank">
-    <img src="https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
-      alt="express" />
-  <a href="https://hibernate.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white" alt="hibernate " /> 
-  </a>
-    <a href="https://spring.io/" target="_blank"> 
-      <img src="https://img.shields.io/badge/spring%20IOC-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="spring" /> 
-  </a>
-  <a href="https://spring.io/" target="_blank"> 
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="spring Boot" /> 
-  </a>
- 
-  
-</p>
+<h3 align="center">Languages and Tools:</h3>
+<hr>
+<p style="text-align:center;">
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="HTML" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="CSS" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="" width="100" height="60"/> </a>
+        <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg" alt="" width="100" height="60"/> </a>
+    </p>
 
-<h3 align="center">Database</h3>
-<p align="center">
-  <a href="https://www.postgresql.org" target="_blank"> 
-    <img src="https://img.shields.io/badge/postgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="postgresql"/> 
-  </a>
-  <a href="https://redis.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white"
-      alt="redis"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank"> 
-    <img src="https://img.shields.io/badge/sqlite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="sqlite"/> 
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb"/> 
-  </a> 
-</p>
+<!-- SUPPORT -->
 
-<h3 align="center">Cloud & Hosting:</h3>
-<p align="center">
-  <a href="https://azure.microsoft.com/en-in/" target="_blank">
-    <img  src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="azure"/> 
-  </a>
-
-  <a href="https://heroku.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-      alt="heroku"/> 
-  </a> 
-</p>
-
-<h3 align="center">Testing</h3>
-<p align="center"> 
-  <a href="https://www.selenium.dev" target="_blank"> 
-    <img src="https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white"
-      alt="selenium" /> 
-  </a> 
-  <a href="https://junit.org/junit5/" target="_blank"> 
-    <img src="https://img.shields.io/badge/junit-25A162.svg?style=for-the-badge&logo=junit5&logoColor=white" alt="junit5" /> 
-  </a> 
-</p>
-
-<h3 align="center">Version Control & CI/CD</h3>
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
-      alt="git"/>
-  </a>
-  <a href="https://github.com/ELanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  </a>
-  <a href="https://gitlab.com/Elanza-48" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
-      alt="git"/>
-  </a>
-    <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
-      alt="docker"/>
-  </a>
-  <a href="https://www.jenkins.io" target="_blank"> 
-    <img src="https://img.shields.io/badge/jenkins-D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="jenkins"/> 
-  </a>
-</p>
-
-<h3 align="center">Preferred IDEs  & Tools :</h3>
-<p align="center"> 
-  <a href="https://eclipse.org" target="_blank">
-    <img src="https://img.shields.io/badge/eclipse-2C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse IDE"/> 
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
-  </a>
-  <a href="https://www.jetbrains.com/" target="_blank">
-    <img src="https://img.shields.io/badge/jetbrains%20IDE-000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" alt="jetbrains" />
-  </a>
-  <a href="https://postman.com" target="_blank"> 
-    <img src="https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-  </a>
-  <a href="https://www.virtualbox.org/" target="_blank">
-    <img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
-      alt="virtualbox"/>
-  </a>
-  <a href="https://ubuntu.com/" target="_blank"> 
-    <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu"/>
-  </a>
-</p>
 
 ----
 
 <h3 align="center">Connect with me</h3>
 
 <div style="margin-top:10px" align="center">
+    ## 🙋‍♀️ Let's Connect
+<p align="center">
+  <a target="_blank" href="https://sudeepresume.42web.io/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a target="_blank" href="mailto:jdavy7673@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a target="_blank" href="https://github.com/davyj123"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/sudeep-kumar-489207201/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a target="_blank" href="https://instagram.com/jdavy_sk"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>	
+</p>
   
-  <div>
-    <a  href="https://www.linkedin.com/in/sudeep-kumar-489207201" target="_blank">
-      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
-    </a>
-  </div>
   
 </div>
-
-<h3 align="center">Reach me</h3>
-
-<p align="center">
-  <a  href="https://t.me/dayj123" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
-  </a>
-  <a href="mailto:jdavy7673@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
-    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
-  </a>
-</p>
 
 ----
 
@@ -226,6 +79,7 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=davyj123&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/davyj123)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davyj123&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 ------
